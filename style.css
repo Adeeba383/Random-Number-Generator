@@ -1,0 +1,56 @@
+h1{
+    color: #0f9e99;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    text-decoration: underline;
+    font-size: 30px;
+}
+#div1{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0f9e99;
+    color: #efe9e0;
+    border: 4px double #efe9e0;
+    width: 600px;
+    padding: 20px;
+}
+.gen{
+    margin: 10px;
+    border: #efe9e0;
+    width: 100px;
+    height: 50px;
+    font-size: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.label1{
+    font-size: 28px;
+}
+#number{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+    color: #0f9e99;
+    transition:  0.2s ease;
+}
+#generator{
+    display: block;
+    background-color: #0f9e99;
+    color: #efe9e0;
+    border:2px double #0f9e99;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-size: 1.5em;
+    width: 650px;
+    transition:  0.3s;
+}
+#generator:hover{
+    background-color: #5fdbd7;
+    color: #173332;
+    border-color: #5fdbd7;
+}
